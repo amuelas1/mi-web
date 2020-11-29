@@ -8,30 +8,7 @@ body {
 	font-size: 1em;
 	line-height: 1.5em;
 }
-@media screen and (max-width: 800px) {
-      #contenedor{
-                           width:100%;
-                           }
-}
-@media screen and (max-device-width : 480px) {
-
-        #sidebar{
-	        display:none;
-	        }
-
-                #menu{
-               text-align:center;
-               }
-}
-@media screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape){
-       .entry, .entry-content
-       {
- 	      font-size:1.2em;
-	      line-height:1.5em;
-
-	}
- }
- a:hover {
+#footer a:hover {
   font-size:20px;
 }
 	#main-content header,
