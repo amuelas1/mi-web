@@ -1,0 +1,18 @@
+body{
+  background-image: url(img/pai.jpg);
+  background-size: 100vw 100vh;
+  background-attachment: fixed;
+  color: black;
+}
+img{
+  width: 250px;
+  height: 250px;
+  position:fixed;
+  top: 120px;
+  left: 10px;
+}
+video{
+  position:fixed;
+  top: 110px;
+  right: 10px;
+}

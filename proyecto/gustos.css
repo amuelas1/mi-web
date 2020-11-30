@@ -1,8 +1,21 @@
 body {
 background-color: #7D6D87;
 color: white;
+background-image: url(img/fondolol.jpg);
+background-size: 100vw 100vh;
+background-attachment: fixed;
 }
 img{
   width: 800px;
   height: 450px;
+}
+#lol1{
+  position:fixed;
+  top: 110px;
+  right: 10px;
+}
+#lol2{
+  position:fixed;
+  top: 110px;
+  left: 10px;
 }

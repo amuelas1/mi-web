@@ -1,5 +1,6 @@
 body{
   display: flex;
+  background-color: #91D6B5;
 }
 .contenedor{
   width: 60%;
